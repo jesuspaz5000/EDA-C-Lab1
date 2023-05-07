@@ -1,4 +1,4 @@
-public class Main {
+public class ifandElse {
   public static void main(String[] args) {
     int time = 22;
     if (time < 10) {
